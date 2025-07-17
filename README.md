@@ -23,7 +23,7 @@ This project explores and analyzes the content available on Netflix using the pu
 Explore key patterns and trends from the Netflix dataset using EDA visualizations:
 
 - **Netflix Content EDA Visuals**  
-  ![Netflix Content EDA Visuals](Netflix Content EDA Visuals.jpg)
+  ![Netflix Content EDA Visuals](Netflix%20Content%20EDA%20Visuals.jpg)
 
 ---
 
